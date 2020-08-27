@@ -13,7 +13,7 @@ export function Articles({ articles }: ArticlesProps) {
       {articles.map(({ title, imageName, body }, index) => (
         <ArticlePreview
           key={index}
-          gridName={index == 0 ? 'main-area' : gridName}
+          gridName={index === 0 ? 'main-area' : gridName}
           imageName={imageName}
           title={title}
           index={index}

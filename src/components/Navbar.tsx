@@ -1,5 +1,3 @@
-import { readFile } from 'fs';
-
 import React from 'react';
 import { useHistory } from 'react-router-dom';
 
