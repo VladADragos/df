@@ -1,16 +1,16 @@
 import React from 'react';
 import { useLocation } from 'react-router';
 import articles from '../ArticleData';
-import RoboTeacher from '../images/RoboTeacher.jpg';
+import RoboTeacher from '../images/RoboTeacher2.jpg';
 import TeacherProtest from '../images/TeacherProtest.jpg';
-
+import Lecturer from '../images/Lecturer.png';
 function titleToIndex(title: string): number {
   switch (title) {
-    case 'Minerva Technologies launches nationwide use of robotic teachers':
+    case 'Robotic teachers enter the classroom':
       return 0;
     case 'Teacher unions outraged':
       return 1;
-    case 'Professor positive to robotic teacher':
+    case 'Professor positive to robotic teachers':
       return 2;
     default:
       return 0;
@@ -29,7 +29,12 @@ function Article() {
     case 'TeacherProtest':
       n = TeacherProtest;
       break;
+    case 'Lecturer':
+      n = Lecturer;
+      break;
   }
+
+  console.log(imageName);
   return (
     <article className='ArticleBig'>
       {' '}

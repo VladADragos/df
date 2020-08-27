@@ -39,7 +39,7 @@ const data: ShortStory[] = [
   },
   {
     title: 'First transgender person on the moon',
-    description: 'Alex Jones is the first transgender astronaut on the moon',
+    description: 'Oliver Smith is the first transgender astronaut on the moon',
   },
 ];
 

@@ -1,7 +1,8 @@
 import React from 'react';
 import { useHistory } from 'react-router-dom';
-import RoboTeacher from '../images/RoboTeacher.jpg';
+import RoboTeacher from '../images/RoboTeacher2.jpg';
 import TeacherProtest from '../images/TeacherProtest.jpg';
+import Lecturer from '../images/Lecturer.png';
 interface ArticlePreviewProps {
   title: string;
   imageName: string;
@@ -28,6 +29,9 @@ function ArticlePreview({
       break;
     case 'TeacherProtest':
       n = TeacherProtest;
+      break;
+    case 'Lecturer':
+      n = Lecturer;
       break;
   }
   // console.log(n);

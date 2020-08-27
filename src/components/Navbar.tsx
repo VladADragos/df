@@ -24,6 +24,24 @@ function Navbar() {
         <li className='a'>
           <a href='/' className='Navbar__link'>
             {' '}
+            Politics <i className='fas fa-landmark'></i>
+          </a>{' '}
+        </li>
+        <li className='a'>
+          <a href='/' className='Navbar__link'>
+            {' '}
+            Technology <i className='fas fa-microchip'></i>
+          </a>{' '}
+        </li>
+        <li className='a'>
+          <a href='/' className='Navbar__link'>
+            {' '}
+            Entertainment <i className='fas fa-film'></i>
+          </a>{' '}
+        </li>
+        <li className='a'>
+          <a href='/' className='Navbar__link'>
+            {' '}
             Space Affairs <i className='fas fa-rocket'></i>
           </a>{' '}
         </li>

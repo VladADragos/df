@@ -144,10 +144,11 @@
 }
 
 .ArticleBig {
-  width: 50%;
+  width: 40%;
   margin: auto;
   background: rgb(240, 240, 240);
   padding: 2rem;
+  min-height: 100%;
 }
 .ArticleBig__img {
   width: 100%;
@@ -156,6 +157,8 @@
   object-position: 0px -80px;
 }
 .ArticleBig__title {
+  font-size: 2.2rem;
+  margin: 0.4rem 0rem;
 }
 .ArticleBig__paragraph {
   margin: 1rem 0rem;

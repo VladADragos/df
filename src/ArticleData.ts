@@ -1,9 +1,20 @@
 const data = {
-  title: 'Cogress approves large scale use of robotic teachers from Robo Corp',
+  title: 'Robotic teachers enter the classroom',
   imageName: 'RoboTeacher',
   body: [
-    'Robotic teachers from the Google spin off e-learning company Robot corp have gained the approval of the united states congress.Lorem ipsum, dolor sit amet consectetur adipisicing elit. Consequuntur, corporis sunt odit repellendus molestias nostrum incidunt illum numquam aliquam nisi expedita facere amet iste placeat tempore dicta deleniti pariatur rem.',
-    'second11111111111111111',
+    'After decades of development, Minerva technologies robot teachers are about to enter classrooms around the country. The company was started in 2020 after the sars COVID 2 pandemic as a spin-off from Alphabets e-learning division. ',
+    '“We are very excited to finally be able to bring to deliver a product that we have been developing for a very long time“',
+    'John Ericson CEO of Minerva Technologies',
+    '“Education is paramount in today’s society, not for your success but for your survival. Education is what lifts people out of poverty. Lowering the cost of education will enable millions of people to get the education they deserve.”',
+    'He continues',
+    '“Many countries around the world have too few teachers. It takes time and money to teach somebody just so that they then will be able to teach others. Our product will allow for underdeveloped regions to catch up faster“',
+    'Here are some of the features that Ericson mention in the companies annoucment live stream',
+    '“M-1 is part of a bigger learning ecosystem, including a large database of already prepared and certified courses ready for schools to choose from”',
+    'M-1 uses the latest teaching methodologies found from pedagogical research. This has allowed according to our internal studies for faster learning and higher knowledge retention',
+    'Another of m-1:s key features is its ability to recognize and adapt to student facial expressions, allowing it to adapt the lecture',
+    '“M-1 has the ability to answer complex questions thanks to its advanced gpt-15 language model and its DQL cortex.  It won’t be able to answer what the meaning of life and the universe itself is, but it will come close”',
+    'Ericson also announced that the company would launch m-1 worldwide next year along with its IPO.',
+    '',
   ],
 };
 const data2 = {
@@ -24,11 +35,18 @@ const data2 = {
   ],
 };
 const data3 = {
-  title: 'Some teachers positive',
-  imageName: 'RoboTeacher',
+  title: 'Professor positive to robotic teachers',
+  imageName: 'Lecturer',
   body: [
-    'Robotic teachers from the Google spin off e-learning company Robot corp have gained the approval of the united states congress.Lorem ipsum, dolor sit amet consectetur adipisicing elit. Consequuntur, corporis sunt odit repellendus molestias nostrum incidunt illum numquam aliquam nisi expedita facere amet iste placeat tempore dicta deleniti pariatur rem.',
-    'second11111111111111111',
+    'UC Berkley professor, Neil Lindengar views the mainstream launch of robotic teachers as positive. ',
+    '“The use of robotic teachers like m-1 will allow lecturers around to world to focus more on research, imagine all the things we will be able to discover if we weren’t busy correcting assignments”',
+    '"Teachers waste a lot of time doing non-teaching work, including more than 11 hours a week marking homework. If robots could cut the time teachers spend marking homework and writing reports, teachers would have more time and energy for the parts of the job humans do best"',
+    ' "It will allow us to figure out new things to teach instead of the same old ones"',
+    ' ',
+    ' ',
+    ' ',
+    ' ',
+    ' ',
   ],
 };
 
