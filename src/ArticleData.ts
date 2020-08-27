@@ -42,11 +42,13 @@ const data3 = {
     '“The use of robotic teachers like m-1 will allow lecturers around to world to focus more on research, imagine all the things we will be able to discover if we weren’t busy correcting assignments”',
     '"Teachers waste a lot of time doing non-teaching work, including more than 11 hours a week marking homework. If robots could cut the time teachers spend marking homework and writing reports, teachers would have more time and energy for the parts of the job humans do best"',
     ' "It will allow us to figure out new things to teach instead of the same old ones"',
-    ' ',
-    ' ',
-    ' ',
-    ' ',
-    ' ',
+    '',
+    '',
+    '',
+    '',
+    '',
+    '',
+    '',
   ],
 };
 

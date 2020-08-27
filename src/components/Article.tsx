@@ -40,9 +40,9 @@ function Article() {
       {' '}
       <img src={n} alt='' className='ArticleBig__img' />
       <h2 className='ArticleBig__title'>{title} </h2>{' '}
-      {body.map((p) => (
-        <p className='ArticleBig__paragraph'> {p} </p>
-      ))}
+      {body.map((p) =>
+        p !== '' ? <p className='ArticleBig__paragraph'> {p} </p> : <br></br>
+      )}
     </article>
   );
 }
