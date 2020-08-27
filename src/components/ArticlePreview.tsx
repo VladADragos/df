@@ -1,7 +1,6 @@
 import React from 'react';
-import { Link, useHistory } from 'react-router-dom';
+import { useHistory } from 'react-router-dom';
 import RoboTeacher from '../images/RoboTeacher.jpg';
-import TeacherProtest from '../images/TeacherProtest.jpg';
 interface ArticlePreviewProps {
   title: string;
   imageName: string;
@@ -17,7 +16,7 @@ function ArticlePreview({
   gridName,
   index,
 }: ArticlePreviewProps) {
-  if (gridName == 'side-area') {
+  if (gridName === 'side-area') {
     gridName += index;
   }
 

@@ -10,25 +10,25 @@ function Navbar() {
       </header>
       <ul className='Navbar__links'>
         <li className='a'>
-          <a href='#' className='Navbar__link'>
+          <a href='/' className='Navbar__link'>
             {' '}
             Economy <i className='fas fa-signal'></i>
           </a>{' '}
         </li>
         <li className='a'>
-          <a href='#' className='Navbar__link'>
+          <a href='/' className='Navbar__link'>
             {' '}
             Global <i className='fas fa-globe-europe'></i>
           </a>{' '}
         </li>
         <li className='a'>
-          <a href='#' className='Navbar__link'>
+          <a href='/' className='Navbar__link'>
             {' '}
             Space Affairs <i className='fas fa-rocket'></i>
           </a>{' '}
         </li>
         <li className='a'>
-          <a href='#' className='Navbar__link'>
+          <a href='/' className='Navbar__link'>
             {' '}
             Sports <i className='fas fa-running'></i>
           </a>{' '}

@@ -93,8 +93,8 @@
   grid-area: side-area2;
 }
 
-.Article {
-}
+/* .Article {
+} */
 
 .Article:hover {
   cursor: pointer;
