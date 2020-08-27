@@ -1,9 +1,8 @@
 import React from 'react';
 import ArticlePreview from './ArticlePreview';
-interface ArticlesProps {
-  articles: { title: string; imageName: string; body: string[] }[];
-}
-export function Articles({ articles }: ArticlesProps) {
+import articles from '../ArticleData';
+
+export function Articles() {
   let gridName: string = 'main-area';
   gridName = 'side-area';
 

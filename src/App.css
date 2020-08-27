@@ -39,6 +39,7 @@
 .Header {
   font-size: 2rem;
   font-weight: 700;
+  cursor: pointer;
 }
 
 .Navbar__links {
@@ -140,4 +141,22 @@
 }
 
 .short-description {
+}
+
+.ArticleBig {
+  width: 50%;
+  margin: auto;
+  background: rgb(240, 240, 240);
+  padding: 2rem;
+}
+.ArticleBig__img {
+  width: 100%;
+  height: 250px;
+  object-fit: cover;
+  object-position: 0px -80px;
+}
+.ArticleBig__title {
+}
+.ArticleBig__paragraph {
+  margin: 1rem 0rem;
 }
