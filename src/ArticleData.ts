@@ -8,7 +8,7 @@ const data = {
     '“Education is paramount in today’s society, not for your success but for your survival. Education is what lifts people out of poverty. Lowering the cost of education will enable millions of people to get the education they deserve.”',
     'He continues',
     '“Many countries around the world have too few teachers. It takes time and money to teach somebody just so that they then will be able to teach others. Our product will allow for underdeveloped regions to catch up faster“',
-    'Here are some of the features that Ericson mention in the companies annoucment live stream',
+    "Here are some of the features that Ericson mention in the company's announcement live stream",
     '“M-1 is part of a bigger learning ecosystem, including a large database of already prepared and certified courses ready for schools to choose from”',
     'M-1 uses the latest teaching methodologies found from pedagogical research. This has allowed according to our internal studies for faster learning and higher knowledge retention',
     'Another of m-1:s key features is its ability to recognize and adapt to student facial expressions, allowing it to adapt the lecture',
